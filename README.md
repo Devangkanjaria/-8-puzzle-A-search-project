@@ -1,17 +1,3 @@
-### ✅ **Resume-Ready Summary (ATS-friendly)**
-
-> You can add this under your **Projects** or **Python Developer Experience** section:
-
-- **Implemented the A* Search algorithm in Python** to solve the 8-puzzle problem using heuristic-driven pathfinding with Manhattan Distance.
-- **Designed a class-based architecture with priority queue (heapq)** to optimize search efficiency and node comparison.
-- **Built a CLI-based visual output** to demonstrate the progressive solution steps from the start to the goal state with clear matrix formatting.
-- **Applied algorithmic thinking, recursion, and state tracking**, achieving an efficient and traceable solution path reconstruction mechanism.
-
----
-
-### 🧠 GitHub-Ready README (Professional Format)
-
-```markdown
 # 🧩 8-Puzzle Solver using A* Search in Python
 
 An intelligent pathfinding solver for the classic 8-puzzle problem, built using Python’s `heapq`, `dataclasses`, and algorithmic logic. This project demonstrates A* Search implementation with Manhattan Distance as the heuristic, solving puzzles in the shortest path possible.
@@ -100,11 +86,7 @@ Solution found!
 - Debugging and Problem-Solving
 - CLI-based UI & Output Formatting
 
----
 
-## 📄 License
-
-MIT License. Feel free to use and modify with attribution.
 
 ---
 
